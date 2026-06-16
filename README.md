@@ -24,6 +24,7 @@ stRNA-nym/
 ├── meristem_cell_trajectory.R # Monocle trajectory from meristem to organs
 ├── ot2st_trajectory.R # Trajectory from outer tepal to stamen
 ├── steel_clustering.sh # Cell clustering by STEEL
+├── CITATION.cff
 └── README.md
 ```
 
