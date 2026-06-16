@@ -11,7 +11,7 @@ This repository contains the complete analysis pipeline for the **spatial single
 
 ## Repository structure
 ```
-st_water_lily/
+stRNA-nym/
 ├── data_for_analysis/ # Intermediate data files
 │ ├── L7_petal_barcodes_pos.tsv
 │ ├── L7_sepal_barcodes_pos.tsv
